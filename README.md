@@ -180,7 +180,7 @@ CIFAR-10 Dataset
 
 👨‍💻 Author
 
-Harsh Pandey
+Harsh Deep Pandey
 
 B.Tech Computer Science & Engineering
 
